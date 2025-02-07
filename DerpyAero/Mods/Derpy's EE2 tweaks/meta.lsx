@@ -24,7 +24,7 @@
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" value="EpipGameplay_6fd5667e-fb05-43ad-b3a9-764b63b21497" type="30" />
                             <attribute id="MD5" value="" type="23" />
-                            <attribute id="Name" value="Epip" type="22" />
+                            <attribute id="Name" value="EpipGameplay" type="22" />
                             <attribute id="UUID" value="6fd5667e-fb05-43ad-b3a9-764b63b21497" type="22" />
                             <attribute id="Version" value="268435457" type="4" />
                         </node>
