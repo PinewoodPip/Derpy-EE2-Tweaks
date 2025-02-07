@@ -5,7 +5,38 @@
     <region id="Config">
         <node id="root">
             <children>
-                <node id="Dependencies" />
+                <node id="Dependencies">
+                    <children>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Epic_Encounters_Core_63bb9b65-2964-4c10-be5b-55a63ec02fa0" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Epic Encounters: Core Systems" type="22" />
+                            <attribute id="UUID" value="63bb9b65-2964-4c10-be5b-55a63ec02fa0" type="22" />
+                            <attribute id="Version" value="319094792" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Epic_Encounters_d2d724e6-13c2-47c3-b356-19c3ff8bc622" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Epic Encounters: Origins" type="22" />
+                            <attribute id="UUID" value="d2d724e6-13c2-47c3-b356-19c3ff8bc622" type="22" />
+                            <attribute id="Version" value="268828678" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="EpipGameplay_6fd5667e-fb05-43ad-b3a9-764b63b21497" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Epip" type="22" />
+                            <attribute id="UUID" value="6fd5667e-fb05-43ad-b3a9-764b63b21497" type="22" />
+                            <attribute id="Version" value="268435457" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="EpipEncounters_7d32cb52-1cfd-4526-9b84-db4867bf9356" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Epip" type="22" />
+                            <attribute id="UUID" value="7d32cb52-1cfd-4526-9b84-db4867bf9356" type="22" />
+                            <attribute id="Version" value="268894211" type="4" />
+                        </node>
+                    </children>
+                </node>
                 <node id="ModuleInfo">
                     <attribute id="Author" value="Derpy Moa" type="30" />
                     <attribute id="CharacterCreationLevelName" value="" type="22" />
